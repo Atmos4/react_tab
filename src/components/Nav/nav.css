@@ -14,5 +14,11 @@
     list-style: none;
     background-color:rgb(130, 130, 255);
     border-radius: 10px 10px 0 0;
-    overflow : hidden;
+    overflow: hidden;
+}
+
+@media screen and (min-width: 1000px){
+    .nav-list{
+        width: 900px;
+    }
 }

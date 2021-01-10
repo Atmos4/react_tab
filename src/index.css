@@ -1,11 +1,13 @@
+*{
+  font-family: Arial, sans-serif;
+  font-size: 20px;
+  box-sizing: border-box;
+}
+
 html {
   position: relative;
   margin: 0;
-  /* For some unknown reason, on my computer React is making html exactly 40px wider than my screen */
-  padding : 0 40px 0 0;
+  padding: 0;
   width : 100%;
-  box-sizing: border-box;
-  font-family: Arial, sans-serif;
-  font-size: 20px;
 }
 
