@@ -1,6 +1,5 @@
-import './App.css';
-import Nav from "./components/Nav/Nav"; 
-import Tab from "./components/Tab/Tab"
+import Nav from "../components/Nav/Nav"; 
+import Tab from "../components/Tab/Tab"
 
 function App() {
   return (
